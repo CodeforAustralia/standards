@@ -1,2 +1,3 @@
-# standards
-Standards blueprint for new repos.
+# Standards (WIP)
+
+Example guidelines for new Code for Australia repositories.
