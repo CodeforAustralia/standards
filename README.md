@@ -15,7 +15,7 @@ We also recommend reading the [Open Source Guide](https://opensource.guide/).
 ## Table of contents
 
 * [Creating a new repo](https://github.com/CodeforAustralia/standards#creating-a-new-repo)
-* [Adding a readme](https://github.com/CodeforAustralia/standards#adding-a-readme)
+* [Adding a Readme](https://github.com/CodeforAustralia/standards#adding-a-readme)
 * [Adding a License](https://github.com/CodeforAustralia/standards#adding-a-license)
 
 
@@ -34,3 +34,5 @@ The branded Readme also links to Code for Australia's Code of Conduct and Contri
 ### Adding a License 
 
 Choose one that is right for your project, if you're not sure you probably want to use an [MIT License](https://choosealicense.com/licenses/mit).
+
+Github allows you to easily add a License to your repository. You can read their [documentation](https://help.github.com/articles/adding-a-license-to-a-repository/) to learn how to do this.
