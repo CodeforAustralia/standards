@@ -3,6 +3,15 @@
 Common standards and guidelines for Code for Australia repositories.
 
 
+## Why Standards 
+
+At Code for Australia we believe in Open Source. One of our philosophies is to "Keep it Open by Default". 
+
+This repository contains some basic guidelines to help Fellows set up good Open Source projects. 
+
+We also recommend reading the [Open Source Guide](https://opensource.guide/).
+
+
 ## Table of contents
 
 * [Creating a new repo](https://github.com/CodeforAustralia/standards#creating-a-new-repo)
