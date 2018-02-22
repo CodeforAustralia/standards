@@ -14,6 +14,8 @@ Common standards and guidelines for Code for Australia repositories.
 
 Write your own or use [our readme template] as a guide.
 
+The branded Readme also links to Code for Australia's Code of Conduct and Contributing document.
+
   
 ### Adding a License 
 
