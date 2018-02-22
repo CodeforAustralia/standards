@@ -18,7 +18,7 @@
 ## Contributing
 
 For help on setting up the repo locally, building, testing, and contributing
-please see [CONTRIBUTING.md](https://github.com/CodeforAustralia/standards/blob/master/templates/CONTRIBUTING.md).
+please see [Contibuting](https://github.com/CodeforAustralia/standards/blob/master/templates/CONTRIBUTING.md).
 
 ## Code of Conduct
 
@@ -27,7 +27,7 @@ All developers who wish to contribute through code or issues, take a look at the
 
 ## License
 
-MIT, see [LICENSE](https://github.com/CodeforAustralia/standards/blob/master/templates/LICENSE) for details.
+MIT, see [License](https://github.com/CodeforAustralia/standards/blob/master/templates/LICENSE) for details.
 
 
 <img src="https://codeforaustralia.org/wp-content/uploads/2017/11/Main-Logo-Black-1.png" width="200" />
