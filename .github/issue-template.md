@@ -8,17 +8,17 @@ Please include screenshots to demonstrate the current behaviour.
 Describe your issue here:
 
 ##Expected Behaviour
-<!-- pick a label -->
+<!-- what should happen -->
 ##Current Behaviour
-<!-- pick a label -->
+<!-- what is happening instead -->
 ##Context
-<!-- pick a label -->
+<!-- browser, device, logged in state, etc -->
 ##Steps to Reproduce
 1.
 2.
 3.
 4.
 ##Possible Solution
-<!-- pick a label -->
+<!-- how this could be solved -->
 ##Severity
 <!-- pick a label -->
